@@ -6,4 +6,5 @@ This version of Tank Trouble has three players: the red player (using the awsd k
 Explore the unique map generated on each level and find all 4 powerups: the railgun (red), the laser (maroon), the shotgun (gold), and the moon (gray)! But beware: rarely, a multiversal rupture causes controls to be changed. Have fun!
 
 Video of gameplay: https://youtu.be/I1u_v3cmDI8
+
 Design document: https://docs.google.com/document/d/1EwimvyVTCQuThAy0nQUuMdvb9D6CgeuQ56UeD1ARGVs/edit?usp=sharing
